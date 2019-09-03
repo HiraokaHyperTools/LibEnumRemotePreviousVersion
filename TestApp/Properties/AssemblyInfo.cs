@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("LibEnumRemotePreviousVersion")]
+[assembly: AssemblyTitle("TestApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HIRAOKA HYPERS TOOLS, Inc.")]
-[assembly: AssemblyProduct("LibEnumRemotePreviousVersion")]
-[assembly: AssemblyCopyright("Copyright (c) 2019 HIRAOKA HYPERS TOOLS, Inc.")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("TestApp")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("793c7982-3e04-4991-bc4a-79b73c65f077")]
+[assembly: Guid("deec8077-487d-469d-ae08-5b963a66bb9b")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //
@@ -30,7 +30,7 @@ using System.Runtime.InteropServices;
 //      Revision
 //
 // すべての値を指定するか、次を使用してビルド番号とリビジョン番号を既定に設定できます
-// 以下のように '*' を使用します:
+// 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly:     AssemblyVersion("0.1")]//here
-[assembly: AssemblyFileVersion("0.1")]//here
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

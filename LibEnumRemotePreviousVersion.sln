@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibEnumRemotePreviousVersion", "LibEnumRemotePreviousVersion.csproj", "{793C7982-3E04-4991-BC4A-79B73C65F077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{DEEC8077-487D-469D-AE08-5B963A66BB9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{793C7982-3E04-4991-BC4A-79B73C65F077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{793C7982-3E04-4991-BC4A-79B73C65F077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{793C7982-3E04-4991-BC4A-79B73C65F077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEEC8077-487D-469D-AE08-5B963A66BB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEC8077-487D-469D-AE08-5B963A66BB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEC8077-487D-469D-AE08-5B963A66BB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEC8077-487D-469D-AE08-5B963A66BB9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
