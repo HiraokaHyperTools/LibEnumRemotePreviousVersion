@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("LibEnumRemotePreviousVersion")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Enumerate Previous Version list at remote share supplied by Shadow Copy service")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HIRAOKA HYPERS TOOLS, Inc.")]
 [assembly: AssemblyProduct("LibEnumRemotePreviousVersion")]
