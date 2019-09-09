@@ -1,5 +1,7 @@
 # LibEnumRemotePreviousVersion
 
+[![Nuget](https://img.shields.io/nuget/v/LibEnumRemotePreviousVersion)](https://www.nuget.org/packages/LibEnumRemotePreviousVersion/)
+
 Previous Version = Snapshots
 
 See also:
